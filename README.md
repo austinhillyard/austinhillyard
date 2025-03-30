@@ -16,8 +16,9 @@
 ## 🏆 Featured Projects  
 ### [🔗 PPM file Ray Tracer](https://github.com/austinhillyard/CS455/tree/main/RayTracer)
 > This is a ray tracer that draws triangles and spheres. They are shaded and colored using a Phong shading model and supports reflections up to 2 recursions by default.
-![Many Reflective Spheres Ray Tracer]("https://github.com/austinhillyard/CS455/blob/main/RayTracer/reflectiveSpheres.png")
-![Ray Traced Scene]("https://github.com/austinhillyard/CS455/blob/main/RayTracer/TriScene2.png")
+![image](https://github.com/user-attachments/assets/aef4742a-975f-4f28-bead-e183d3d9d50d)
+![image](https://github.com/user-attachments/assets/3e4b1b08-6500-40d3-9b80-e9b27d482278)
+
 
 ### [🔗 Echo Server in C]()
 
