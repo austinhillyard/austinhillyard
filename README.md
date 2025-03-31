@@ -1,13 +1,13 @@
 # 👋 Hello There!, I'm Austin!
 
 🚀 **Software Developer**  
-💻 Passionate about Web Development, Sofware Development, and 1Game Development 
+💻 Passionate about Web Development, Sofware Development, Natural Language Processing
 📍 Based in Utah USA 
 
 ---
 
 ## 🔥 About Me  
-- 🌱 Currently learning **Godot, Rust, and Zustand**  
+- 🌱 Currently learning **Godot, Rust, Zustand and **  
 - 🛠️ Working with **C/C++, JavaScript/TypeScript, React, Python**  
 - 📫 Reach me at **austin.hillyard@gmail.com**  
 
@@ -16,14 +16,22 @@
 ## 🏆 Featured Projects  
 ### [🔗 PPM file Ray Tracer](https://github.com/austinhillyard/CS455/tree/main/RayTracer)
 > This is a ray tracer that draws triangles and spheres. They are shaded and colored using a Phong shading model and supports reflections up to 2 recursions by default.
+> Made from scratch according to class specifications with the exception of a `vec3` model class.
 ![image](https://github.com/user-attachments/assets/aef4742a-975f-4f28-bead-e183d3d9d50d)
 ![image](https://github.com/user-attachments/assets/3e4b1b08-6500-40d3-9b80-e9b27d482278)
 
 
-### [🔗 Echo Server in C]()
+### [🔗 Multiplex Proxy Server in C](https://gist.github.com/austinhillyard/d4bf1e56fbf8e887f72cba1f49823d0b)
+> This is a multiplex proxy server in C that handles socket connections I coded for an assignment for CS 324 at BYU.
+> The assignment included some basic structure, but most of the functionality was implemented in this assignment or carried over from past assignments.
 
 ### [🔗 Subreddit AI Text Classification](https://github.com/austinhillyard/LING581-FinalProject)
-> Briefly explain what makes this project interesting.
+> This was a for a final project for two classes. The goal was to try and create a subreddit classification distilbert model from scraped reddit posts. This was my first time using machine learning models in Python.
+
+### [🔗 Quikvote team member](https://github.com/cs428TAs/w2025/wiki/Quikvote)
+> This was a group project for CS 428 Software Engineering at BYU. Quikvote was a fellow student's web project, and we added extended functionality as a group.
+> I was the role of project manager, and did all of the write ups and requirments, as well as some code contributions.
+> [Source code](https://github.com/quikvote/quikvote/tree/main)
 
 [➡️ See all my projects](https://github.com/austinhillyard?tab=repositories)  
 
