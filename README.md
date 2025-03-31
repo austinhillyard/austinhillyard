@@ -9,7 +9,9 @@
 ## 🔥 About Me  
 - 🌱 Currently learning **Godot, Rust, Zustand and **  
 - 🛠️ Working with **C/C++, JavaScript/TypeScript, React, Python**  
-- 📫 Reach me at **austin.hillyard@gmail.com**  
+- 📫 Reach me at **austin.hillyard@gmail.com**
+- 🎓 Undergraduate Student in Computer Science : Brigham Young University
+- 🎓 Minor in Compuational Linguistics
 
 ---
 
