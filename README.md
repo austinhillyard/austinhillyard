@@ -22,6 +22,9 @@
 ![image](https://github.com/user-attachments/assets/aef4742a-975f-4f28-bead-e183d3d9d50d)
 ![image](https://github.com/user-attachments/assets/3e4b1b08-6500-40d3-9b80-e9b27d482278)
 
+### [🔗 3D line renderer pipeline in python's Pygame](https://gist.github.com/austinhillyard/fc8193dfce5ed8b1a1589f9bdbddb7e2)
+> This is a polygon line renderer using Python's Pygame module to manage the screen and keyboard controls
+> This follows a standard graphics pipeline translating objects according to camera position and rotation, as well as a clipping plane for 2D screen projection.
 
 ### [🔗 Multiplex Proxy Server in C](https://gist.github.com/austinhillyard/d4bf1e56fbf8e887f72cba1f49823d0b)
 > This is a multiplex proxy server in C that handles socket connections I coded for an assignment for CS 324 at BYU.
