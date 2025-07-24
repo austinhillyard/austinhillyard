@@ -16,6 +16,12 @@
 
 ---
 
+## Boot.dev Profile
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/bcb017c8-f780-4e0c-b29c-0b597524b9e1/thumbnail" >
+</p>
+
 ## 🏆 Featured Projects  
 ### [🔗 PPM file Ray Tracer](https://github.com/austinhillyard/CS455/tree/main/RayTracer)
 > This is a ray tracer that draws triangles and spheres. They are shaded and colored using a Phong shading model and supports reflections up to 2 recursions by default.
