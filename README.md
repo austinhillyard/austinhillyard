@@ -29,6 +29,9 @@
 ![image](https://github.com/user-attachments/assets/aef4742a-975f-4f28-bead-e183d3d9d50d)
 ![image](https://github.com/user-attachments/assets/3e4b1b08-6500-40d3-9b80-e9b27d482278)
 
+### [CLI Gemini AI-Agent](https://github.com/austinhillyard/ai-agent)
+> From the boot.dev project course. A gemini agent CLI tool that can read, write, and execute files in a workspace.
+
 ### [🔗 3D line renderer pipeline in python's Pygame](https://gist.github.com/austinhillyard/fc8193dfce5ed8b1a1589f9bdbddb7e2)
 > This is a polygon line renderer using Python's Pygame module to manage the screen and keyboard controls
 > This follows a standard graphics pipeline translating objects according to camera position and rotation, as well as a clipping plane for 2D screen projection.
